@@ -1,8 +1,8 @@
 {
-    "latest_version": "3.2.0",
+    "latest_version": "3.3.0",
     "min_version": "3.2.0",
     "force_update": false,
-    "apk_url": "https://github.com/pokehub1991/fileserver/releases/download/v3.2.0/app-release.apk",
-    "release_notes": "âœ¨ Novedades:\nâ€¢ Chips de atenciones por tÃ©cnico en el Secuenciador\nâ€¢ Selector de cursos mejorado en Cambio de Aula\nâ€¢ InformaciÃ³n mÃ¡s clara en las tarjetas de Ambientes Libres\nâ€¢ EliminaciÃ³n de tareas con control por rol de usuario\n\nðŸš€ Mejoras:\nâ€¢ Mejor visualizaciÃ³n del filtro de Aperturas\nâ€¢ Datos de horarios y reservas por campus mÃ¡s precisos\n\nðŸ”§ Correcciones:\nâ€¢ CorrecciÃ³n en la visualizaciÃ³n de horarios del sÃ¡bado\nâ€¢ Ajustes menores de interfaz y estabilidad",
+    "apk_url": "https://github.com/pokehub1991/fileserver/releases/download/v3.3.0/app-release.apk",
+    "release_notes": "Novedades:\nâ€¢ Botones de descarga directa en la pantalla de inicio de sesiÃ³n\nâ€¢ OpciÃ³n de descarga manual en la pantalla de actualizaciones\nâ€¢ Mejoras visuales en el filtro de aperturas de horarios\n\nMejoras:\nâ€¢ El enlace de actualizaciones ahora apunta siempre a la versiÃ³n mÃ¡s reciente\nâ€¢ Ajustes menores de interfaz y estabilidad",
     "release_date": "2026-03-31"
 }
