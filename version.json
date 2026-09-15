@@ -1,8 +1,8 @@
 {
-    "latest_version": "3.3.0",
-    "min_version": "3.2.0",
+    "latest_version": "4.0.0",
+    "min_version": "3.3.0",
     "force_update": false,
-    "apk_url": "https://github.com/pokehub1991/fileserver/releases/download/v3.3.0/app-release.apk",
-    "release_notes": "Novedades:\nâ€¢ Botones de descarga directa en la pantalla de inicio de sesiÃ³n\nâ€¢ OpciÃ³n de descarga manual en la pantalla de actualizaciones\nâ€¢ Mejoras visuales en el filtro de aperturas de horarios\n\nMejoras:\nâ€¢ El enlace de actualizaciones ahora apunta siempre a la versiÃ³n mÃ¡s reciente\nâ€¢ Ajustes menores de interfaz y estabilidad",
-    "release_date": "2026-03-31"
+    "apk_url": "https://github.com/pokehub1991/fileserver/releases/download/v4.0.0/app-release.apk",
+    "release_notes": "Novedades v4.0.0:\n• Nuevo tema oscuro (Dark Mode) y rediseño visual\n• Autenticación en dos pasos (2FA) integrada\n• Sistema de recordatorios y alarmas de clase\n• Escáner de código para inventario de activos\n• Refactorización general y mayor fluidez",
+    "release_date": "2026-09-14"
 }
